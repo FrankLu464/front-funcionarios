@@ -1,9 +1,6 @@
-import Header from "./components/Header";
-
 export default function Home() {
   return (
-  <div>
-    <Header />
+  <div> 
     <main 
     style={{
       display:"flex", justifyContent:"center", 
